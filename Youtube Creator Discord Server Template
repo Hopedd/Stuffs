@@ -1,0 +1,19 @@
+The template:
+https://discord.new/Tz4F28nWhhTR
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+To Start Guide (reccomended):
+- If you want to invite your friends in the server and chat with them, change "Server Owner" from the category "Server Owner's Personal Friends" to the server owner's Gamertag/Youtube Alias. If you don't want/need this, you can remove the category and channels entirely.
+- Add the Sapphire bot and set the auto-role on with the "Members" role (all roles that must be added are at the last "To Start Guide"
+- Add roles:
+    - "Owner", this is the role that is given to the server owner, give it every possible permission.
+    - "Nitro Boosters", this role is given to the people that boost the server.
+    - "Head Admins", this role is given to the highest ranked admins (who you probably trust the most), if you just want one admin role remove this one and the "Pre-Admins" role.
+    - "Admins", this role is given to admins
+    - "Pre-Admins", this role is given to the lowest ranked admins (who you probably trust the least) or new admins , if you just want one admin role remove this one and the "Head Admins" role.
+    - "Bots", this role is given to bots/apps you add in to the server
+    - "Members", this role is given to everyone in the server.
+  OPTIONAL ROLES:
+    - "Co-Owners" (this role goes under the "Owner" role), give this role to someone you want to help you manage the server, give this role every permission possible. If you want to give multiple people this role, make the role name "Co-Owners"
+    - "Server Owner's" Alt Accounts (this role goes under the "Owner" role and the optional "Co-Owner" or "Co-Owners" role), give this role to your discord alt account. Change "Server Owner" to the name of the server owner's Gamertag/Youtube Alias.
+    - "Chat Reviver" (this role goes under the "Bots" role), give this role to those who want it by making the server a community and add the question of "Do you want to be a chat reviver" and make only a yes answer wich gives them the role, but make the question optional, give this role the permission to tag @everyone
+    - If the server owner plays multiple games on his youtube channel, add roles to the server that show they play those games (these roles go above the "Member" role. Give these roles to people by making the server a community and add the question of "What games do you play?", with the answers being the games the server owner plays on their Youtube channel wich gives the server members the roles of the games. I recommend making seperate categories and channels for different games.
