@@ -1,0 +1,87 @@
+{
+    "display": {
+        "separator": "",
+        "color": {
+            "keys": "38;2;0;83;192",
+            "output": "38;2;0;83;192"
+        }
+    },
+    "logo": {
+        "source": "~/DebianBlack.png",
+        "width": 24,
+        "height": 12,
+        "padding": {
+            "left": 3,
+            "top": 2,
+            "right": 3
+        }
+    },
+    "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+    "modules": [
+        "break",
+        "break",
+        "break",
+        {
+            "type": "custom",
+            "key": "User"
+        }, 
+        {
+            "key": "╭───────────────────╮",
+            "type": "custom"
+        },
+        {
+            "type": "host",
+            "key": "│ {#31}",
+            "format": ": USER"
+        },
+        {
+            "type": "os",
+            "key": "│ {#34}",
+            "format": ": OS"
+        },
+        
+        {
+            "type": "de",
+            "key": "│ {#36}󰇄",
+            "format": ": DE"
+        },
+        {
+            "type": "terminal",
+            "key": "│ {#31}",
+            "format": ": TERM"
+        },
+        {
+            "type": "shell",
+            "key": "│ {#32}",
+            "format": ": SH"
+        },
+        {
+            "type": "cpu",
+            "key": "│ {#33}󰍛",
+            "format": ": CPU"
+        },
+        {
+            "type": "gpu",
+            "key": "│ {#33}󰍛",
+            "format": ": GPU"
+        },
+        {
+            "type": "disk",
+            "folders": "/",
+            "key": "│ {#34}󰉉",
+            "format": ": {size-used} Used"
+        },
+        {
+            "type": "memory",
+            "key": "│ {#35}",
+            "format": ": {used} Used"
+        },
+        
+        {
+            "key": "╰─",
+            "type": "custom"
+        },
+        "break",
+        "break"
+    ]
+}
